@@ -1,16 +1,16 @@
 # Telegram AI Chatbot — Sanitized Demonstration Version
-Overview
+**Overview**
 
-This repository contains a heavily sanitized and simplified version of an AI-powered Telegram chatbot.
+*This repository contains a heavily sanitized and simplified version of an AI-powered Telegram chatbot.*
 
 The original project was fully functional and deployed in a real environment.
 However, this public version is intentionally incomplete and exists only to demonstrate architectural decisions, system design, and programming approach.
 
-Approximately 98% of the original implementation was removed or rewritten to prevent reproduction.
+*Approximately 98% of the original implementation was removed or rewritten to prevent reproduction.*
 
-Important Notice
+**Important Notice**
 
- This repository is NOT intended to be runnable or reproducible.
+ *This repository is NOT intended to be runnable or reproducible.*
 
 All components that could enable:
 
@@ -24,7 +24,7 @@ or replication of behavior
 
 have been removed, abstracted, or rewritten.
 
-This includes (but is not limited to):
+*This includes (but is not limited to):*
 
 authentication logic
 
@@ -84,7 +84,7 @@ Production-level memory and filtering systems
 
 The code was intentionally simplified to a non-operational form.
 
-Why It Is Published This Way
+**Why It Is Published This Way**
 
 The original project demonstrated how easily existing systems (including educational workflows) could be influenced or bypassed.
 
@@ -110,7 +110,7 @@ OpenAI API (conceptual usage)
 
 Asyncio
 
-Disclaimer
+# Disclaimer
 
 This repository is provided as-is, without any guarantee of functionality.
 
